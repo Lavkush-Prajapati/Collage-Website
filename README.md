@@ -1,1 +1,1 @@
-# Collage-Website
+This is a Collage-Website.
